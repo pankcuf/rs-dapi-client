@@ -1,3 +1,5 @@
+pub mod ffi;
+
 use std::time::Duration;
 use tonic::transport::Channel;
 
