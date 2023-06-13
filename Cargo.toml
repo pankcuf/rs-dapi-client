@@ -5,7 +5,7 @@ edition = "2021"
 build = "build.rs"
 
 [package.metadata.env]
-platform_branch = "v0.24-dev"
+platform_branch = "v0.25-dev"
 
 [dependencies]
 # GRPC
